@@ -1,0 +1,31 @@
+/* Style css for Banner section Design */
+.banner{
+    background-image: url("../../Images/Homepage1.jpg");
+    background-size: 50%;
+    background-position: right top;
+   
+    background-repeat: no-repeat;
+    height: 500px;
+    text-align: left;
+}
+
+.banner-title {
+    color: brown;
+    margin-top: 50px;
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.banner-text {
+    margin-top: 20px;
+    font-size: 19px;
+    color: rgb(58, 58, 58) ;
+}
+
+.btn-regular {
+    margin-top: 40px;
+    padding: 7px 10px;
+    font-size: 22px;
+    font-weight: 500;
+    color: rgb(218, 36, 81);
+}

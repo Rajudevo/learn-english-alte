@@ -1,0 +1,30 @@
+.footer {
+    background-color: #5f676e;
+    color: white;
+    text-align: left;
+    margin-top: 30px;
+    padding-bottom: 30px;
+}
+
+.footer-text { 
+    color: #1de76b;
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.footer-container {
+    padding: 40px 30px;
+}
+
+a {
+    text-decoration: none;
+    color:antiquewhite;
+}
+a:hover{
+    color: #2ec7a1;
+}
+.footer-title {
+    color: #bab7c7;
+    font-size: 24px;
+    font-weight: 500;
+}
